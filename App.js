@@ -28,6 +28,7 @@ const App: () => React$Node = () => {
   return (
     <View>
       <Text>To do list</Text>
+    <Text>hello</Text>
     </View>
   );
 };
